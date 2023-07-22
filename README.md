@@ -5,7 +5,7 @@ I love creating web applications with user-friendly, accessible and visually app
 
 ## 💻 My Work
 Currently working on a productivity app for teachers. Check out the repo!</br>
-[![image](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://www.github.com/shubsmastan/flourish-ed)
+[![image](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&color=333333)](https://www.github.com/shubsmastan/flourish-ed)
 
 ## 🛠️ My Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
