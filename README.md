@@ -1,11 +1,11 @@
-### 👋 Hi there, I'm Shoaib (he/him)
+### 👋🏾 Hi there, I'm Shoaib (he/him)
 
-## About Me
+## 🧜🏾‍♂️ About Me
 I love creating web applications with user-friendly, accessible and visually appealing frontend experiences, with secure and efficient server-side functionality.
 
-## What I'm Working On
+## 💻 What I'm Working On
 Currently working on a productivity app for teachers.</br>
-
+Check out the repo! [![image]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white))](https://www.github.com/shubsmastan/flourish-ed)
 
 ## 🛠️ My Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
