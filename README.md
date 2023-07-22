@@ -31,7 +31,7 @@ Currently working on a productivity app for teachers.</br>
 ## 🙋‍♀️ Let's Connect
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibmastan)
-[![image](https://img.shields.io/badge/My%20Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.mastan.me)
+[![image](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.mastan.me)
 
 
 <!--
