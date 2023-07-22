@@ -1,6 +1,11 @@
-### 👋 Hi there, I'm
-# Shoaib
-### (he/him)
+### 👋 Hi there, I'm Shoaib (he/him)
+
+## About Me
+I love creating web applications with user-friendly, accessible and visually appealing frontend experiences, with secure and efficient server-side functionality.
+
+## What I'm Working On
+Currently working on a productivity app for teachers.</br>
+
 
 ## 🛠️ My Stack
 
