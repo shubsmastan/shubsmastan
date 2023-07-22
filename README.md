@@ -31,7 +31,7 @@ Currently working on a productivity app for teachers. Check out the repo!</br>
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## ✉️ Contact Me
+## 🌐 Contact Me
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibmastan)
 [![image](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.mastan.me)
