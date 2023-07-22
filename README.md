@@ -4,7 +4,7 @@
 I love creating web applications with user-friendly, accessible and visually appealing frontend experiences, with secure and efficient server-side functionality.
 
 ## 💻 What I'm Working On
-Currently working on a productivity app for teachers. Check out the repo!
+Currently working on a productivity app for teachers. Check out the repo!</br>
 [![image](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://www.github.com/shubsmastan/flourish-ed)
 
 ## 🛠️ My Stack
