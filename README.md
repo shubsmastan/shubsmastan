@@ -3,7 +3,7 @@
 ## 🧜🏾‍♂️ About Me
 I love creating web applications with user-friendly, accessible and visually appealing frontend experiences, with secure and efficient server-side functionality.
 
-## 💻 What I'm Working On
+## 💻 My Work
 Currently working on a productivity app for teachers. Check out the repo!</br>
 [![image](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://www.github.com/shubsmastan/flourish-ed)
 
@@ -28,7 +28,7 @@ Currently working on a productivity app for teachers. Check out the repo!</br>
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## 🙋‍♀️ Let's Connect
+## ✉️ Let's Connect
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibmastan)
 [![image](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.mastan.me)
