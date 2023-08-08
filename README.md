@@ -5,7 +5,7 @@ I'm a software engineer from London, passionate about creating web applications!
 
 ## 💻 My Work
 Currently working on a budgeting app using Angular and Django. Check out the repo!</br></br>
-[![image](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&color=333333)](https://www.github.com/shubsmastan/my-budgeting-app)
+[![image](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&color=333333)](https://www.github.com/shubsmastan/my-budget-app)
 
 ## 🛠️ My Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
