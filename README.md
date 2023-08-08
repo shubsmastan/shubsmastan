@@ -1,21 +1,24 @@
 ### 👋🏾 Hi there, I'm Shoaib (he/him)
 
 ## 🧜🏾‍♂️ About Me
-I love creating web applications with user-friendly, accessible and visually appealing frontend experiences, with secure and efficient server-side functionality.
+I'm a software engineer from London, passionate about creating web applications! See examples of my work below.
 
 ## 💻 My Work
-Currently working on a productivity app for teachers. Check out the repo!</br></br>
-[![image](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&color=333333)](https://www.github.com/shubsmastan/flourish-ed)
+Currently working on a budgeting app using Angular and Django. Check out the repo!</br></br>
+[![image](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&color=333333)](https://www.github.com/shubsmastan/my-budgeting-app)
 
 ## 🛠️ My Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%f7df1e&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=000000)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
