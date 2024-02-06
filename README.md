@@ -4,7 +4,7 @@
 I'm a full stack software engineer from London, passionate about creating web applications! I also love fantasy/sci-fi books, video games and music! See the projects I have worked on below.
 
 ## 💻 My Work
-Currently working on an events booking mock-app using React, GraphQL and Express. Check out the repo!</br></br>
+Currently working on an events booking mock-app using React, GraphQL and Express. Check out the repo and other projects in my pinned section!</br></br>
 [![image](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&color=333333)](https://www.github.com/shubsmastan/events-app)
 
 ## 🛠️ My Stack
@@ -21,7 +21,7 @@ Currently working on an events booking mock-app using React, GraphQL and Express
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000)
@@ -30,7 +30,6 @@ Currently working on an events booking mock-app using React, GraphQL and Express
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Netlify](https://img.shields.io/badge/netlify-%23404d59.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 🌐 Contact Me
 
