@@ -1,7 +1,7 @@
 ### 👋🏾 Hi there, I'm Shoaib (he/him)
 
 ## 🧜🏾‍♂️ About Me
-I'm a full stack software engineer from London, passionate about creating web applications! I also love fantasy/sci-fi books, video games and music! See the projects I have worked on below.
+I'm a full stack software engineer from London, passionate about creating web applications! I also love fantasy/sci-fi books, video games and music. See the projects I have worked on below.
 
 ## 💻 My Work
 Currently working on version 2 of my lesson planning app - working on making it faster, more user friendly and with more features. Check out the repo and other projects in my pinned section!</br></br>
