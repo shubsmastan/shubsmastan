@@ -4,8 +4,8 @@
 I'm a full stack software engineer from London, passionate about creating web applications! I also love fantasy/sci-fi books, video games and music! See the projects I have worked on below.
 
 ## 💻 My Work
-Currently working on an events booking mock-app using React, GraphQL and Express. Check out the repo and other projects in my pinned section!</br></br>
-[![image](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&color=333333)](https://www.github.com/shubsmastan/events-app)
+Currently working on version 2 of my lesson planning app - working on making it faster, more user friendly and with more features. Check out the repo and other projects in my pinned section!</br></br>
+[![image](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&color=333333)](https://www.github.com/shubsmastan/flourish-ed)
 
 ## 🛠️ My Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
